@@ -5,6 +5,8 @@
 💻- Procurando formação nas áreas da informática (em um contexto geral);
 <br>
 🚪- Maior especializção: FrontEnd
+<br<
+📅- Entrei no GitHub: 13/05/2025
 
 ## 📊 Estatísticas
 

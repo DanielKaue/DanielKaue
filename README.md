@@ -8,7 +8,7 @@
 
 ## 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielKaue&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📱 Linguagens
 

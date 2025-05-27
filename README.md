@@ -8,7 +8,7 @@
 
 ## 📊 Estatísticas
 
-![Daniel Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Daniel Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&include_all_commits=true)
 
 ## 📱 Linguagens
 

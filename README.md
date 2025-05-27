@@ -8,7 +8,7 @@
 
 ## 📊 Estatísticas
 
-[![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkaue&theme=dark&include_all_commits=true)]
+![Daniel Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielKaue&hide=contribs,prs)
 ## 📱 Linguagens
 
 <div style="display: inline_block"><br>
